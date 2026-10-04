@@ -1,0 +1,5 @@
+name: FastBucketFix
+version: '1.0'
+main: me.nhan.fastbucketfix.FastBucketFix
+api-version: '1.21'
+author: Nhan
